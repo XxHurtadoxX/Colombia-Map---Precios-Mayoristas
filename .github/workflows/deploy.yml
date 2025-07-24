@@ -29,6 +29,22 @@ jobs:
         node-version: '20'
         cache: 'npm'
 
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Generate DANE data (optional)
+      run: |
+        cd scripts
+        python generate_dane_data.py || echo "⚠️ Script de Python falló, usando datos existentes"
+        # Verificar que existan los datos necesarios
+        if [ ! -f "../public/data/dane_sipsa_data.json" ]; then
+          echo "❌ No se encontraron datos del DANE, el build fallará"
+          exit 1
+        fi
+        echo "✅ Datos del DANE disponibles para el build"
+      
     - name: Install dependencies
       run: npm ci
 
