@@ -88,8 +88,8 @@ const ProductFilter: React.FC<ProductFilterProps> = ({
   return (
     <div className="ea-card h-fit">
       <div className="mb-6">
-        <h2 className="text-lg font-medium text-white text-center">Precios Mayoristas SIPSA - DANE</h2>
-        <p className="text-xs text-gray-400 text-center mt-1">Sistema de Información de Precios y Abastecimiento del Sector Agropecuario</p>
+        <h2 className="text-lg font-medium text-white text-center">Consulta por Producto</h2>
+        <p className="text-xs text-gray-400 text-center mt-1">NOTA: Los precios reportados son $/kg (Promedio de la Ciudad), para los huevos y el bocadillo son $/unidad y los del aceite, el jugo y el vinagre $/litro.</p>
       </div>
 
       {/* Estado del servicio DANE */}
