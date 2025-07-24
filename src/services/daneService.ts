@@ -1,5 +1,6 @@
 import type { Product, PriceData } from '../types'
 import { DANE_CONFIG } from '../config/daneConfig'
+import { getDaneDataUrl } from '../config/environment'
 
 /**
  * Servicio para consumir los datos del DANE SIPSA
@@ -39,7 +40,10 @@ class DaneService {
    * Carga los datos del archivo JSON del DANE SIPSA
    */
   private async loadDaneData(): Promise<any> {
-    const response = await fetch('/data/dane_sipsa_data.json')
+    const dataUrl = getDaneDataUrl()
+    console.log(`Cargando datos del DANE desde: ${dataUrl}`)
+    
+    const response = await fetch(dataUrl)
     if (!response.ok) {
       throw new Error(`Error cargando datos del DANE: ${response.status}`)
     }
