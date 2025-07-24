@@ -1,0 +1,69 @@
+{
+  "name": "colombia-price-map",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Mapa interactivo de precios mayoristas de productos agrícolas en Colombia usando datos del DANE SIPSA",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "generate-dane-data": "cd cliente-webservice-sipsa-main && .\\env\\Scripts\\activate && python ..\\scripts\\generate_dane_data.py",
+    "generate-dane-data-7d": "cd cliente-webservice-sipsa-main && .\\env\\Scripts\\activate && python ..\\scripts\\generate_dane_data_advanced.py --dias 7",
+    "generate-dane-data-15d": "cd cliente-webservice-sipsa-main && .\\env\\Scripts\\activate && python ..\\scripts\\generate_dane_data_advanced.py --dias 15",
+    "generate-dane-data-60d": "cd cliente-webservice-sipsa-main && .\\env\\Scripts\\activate && python ..\\scripts\\generate_dane_data_advanced.py --dias 60",
+    "update-prices": "npm run generate-dane-data"
+  },
+  "dependencies": {
+    "@types/leaflet": "^1.9.20",
+    "@types/soap": "^0.18.0",
+    "axios": "^1.11.0",
+    "leaflet": "^1.9.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-leaflet": "^5.0.0",
+    "soap": "^1.2.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.30.1",
+    "@tailwindcss/postcss": "^4.1.11",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.6.0",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.30.1",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11",
+    "typescript": "~5.8.3",
+    "typescript-eslint": "^8.35.1",
+    "vite": "^7.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ea-tech-company/colombia-price-map.git"
+  },
+  "keywords": [
+    "colombia",
+    "precios",
+    "dane",
+    "sipsa",
+    "agricultura",
+    "mayorista",
+    "mapa",
+    "precio-alimentos",
+    "react",
+    "typescript",
+    "leaflet"
+  ],
+  "author": {
+    "name": "Daniel Hurtado",
+    "email": "daniel@eatechcompany.com",
+    "url": "https://eatechcompany.com"
+  },
+  "license": "MIT",
+  "homepage": "https://colombia-price-map.com"
+}

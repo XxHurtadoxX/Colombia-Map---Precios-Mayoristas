@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #000000;
+    color: #ffffff;
+    min-height: 100vh;
+  }
+
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+}
+
+/* Custom styles without @apply for compatibility */
+.ea-button {
+  background-color: #ffffff;
+  color: #000000;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0rem;
+  font-weight: 500;
+  transition: background-color 0.2s;
+  border: none;
+  cursor: pointer;
+}
+
+.ea-button:hover {
+  background-color: #e5e7eb;
+}
+
+.ea-button:focus {
+  outline: 2px solid #ffffff;
+  outline-offset: 2px;
+}
+
+.ea-button:disabled {
+  background-color: #4b5563;
+  color: #9ca3af;
+  cursor: not-allowed;
+}
+
+.ea-button-secondary {
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0rem;
+  font-weight: 500;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.ea-button-secondary:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.ea-select {
+  background: linear-gradient(145deg, #0a0a0a 0%, #1a1a1a 100%);
+  border: 1px solid #333333;
+  color: #ffffff;
+  padding: 0.75rem 1rem;
+  border-radius: 0rem;
+  transition: all 0.2s;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.ea-select:focus {
+  border-color: #555555;
+  outline: 2px solid rgba(255, 255, 255, 0.2);
+  outline-offset: 2px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+.ea-select option {
+  background-color: #1a1a1a !important;
+  color: #ffffff !important;
+  padding: 8px 12px;
+}
+
+.ea-select option:hover,
+.ea-select option:focus,
+.ea-select option:active {
+  background-color: #4a4a4a !important;
+  color: #ffffff !important;
+  background: #4a4a4a !important;
+}
+
+.ea-select option:checked {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  color: #000000 !important;
+  background: rgba(255, 255, 255, 0.9) !important;
+}
+
+/* Estilos específicos para Firefox */
+@-moz-document url-prefix() {
+  .ea-select option:hover {
+    background-color: #4a4a4a !important;
+    color: #ffffff !important;
+  }
+  .ea-select option:checked {
+    background-color: rgba(255, 255, 255, 0.9) !important;
+    color: #000000 !important;
+  }
+}
+
+/* Estilos específicos para Webkit (Chrome, Safari) */
+.ea-select option:checked {
+  background: rgba(255, 255, 255, 0.9) !important;
+  color: #000000 !important;
+}
+
+.ea-card {
+  background: linear-gradient(145deg, #0a0a0a 0%, #1a1a1a 100%);
+  border: 1px solid #333333;
+  border-radius: 0rem;
+  padding: 1.5rem;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8), 0 0 20px rgba(255, 255, 255, 0.05);
+}
+
+.ea-logo-container {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.ea-gradient-bg {
+  background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%);
+}
+
+.ea-map-marker {
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+}
+
+/* Estilos para Leaflet Map */
+.leaflet-container {
+  background-color: #111827;
+  border-radius: 0rem;
+}
+
+.leaflet-popup-content-wrapper {
+  background-color: #111827;
+  color: #ffffff;
+  border-radius: 0rem;
+}
+
+.leaflet-popup-tip {
+  background-color: #111827;
+}
+
+.leaflet-control-zoom a {
+  background-color: #111827;
+  color: #ffffff;
+  border-color: #374151;
+}
+
+.leaflet-control-zoom a:hover {
+  background-color: #1f2937;
+  color: #ffffff;
+}
+
+.leaflet-control-attribution {
+  background-color: #111827;
+  color: #9ca3af;
+}
+
+/* Loading Animation */
+.loading-spinner {
+  border: 3px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  border-top: 3px solid #ffffff;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Price indicators */
+.price-low {
+  color: #10b981;
+}
+
+.price-medium {
+  color: #f59e0b;
+}
+
+.price-high {
+  color: #ef4444;
+}

@@ -1,0 +1,3968 @@
+{
+  "ciudades": [
+    {
+      "ciudad": "MEDELLÍN",
+      "lat": 6.2442,
+      "lng": -75.5812,
+      "productos": [
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "2167",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "5675",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "2100",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "14",
+          "nombre": "Coco",
+          "precio": "9738",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "15",
+          "nombre": "Granadilla",
+          "precio": "5578",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "16",
+          "nombre": "Guayaba*",
+          "precio": "3550",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "17",
+          "nombre": "Limón Común",
+          "precio": "2014",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "18",
+          "nombre": "Limón Tahití",
+          "precio": "1100",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "4100",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "5000",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "7600",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "22",
+          "nombre": "Maracuyá",
+          "precio": "3100",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "3113",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "24",
+          "nombre": "Naranja*",
+          "precio": "2000",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "25",
+          "nombre": "Papaya maradol",
+          "precio": "3725",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "26",
+          "nombre": "Piña *",
+          "precio": "2925",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "3575",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "28",
+          "nombre": "Arracacha*",
+          "precio": "1719",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "29",
+          "nombre": "Papa negra*",
+          "precio": "1350",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "2875",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "31",
+          "nombre": "Plátano guineo",
+          "precio": "1425",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "1963",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "33",
+          "nombre": "Yuca*",
+          "precio": "2580",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "1",
+          "nombre": "Ahuyama",
+          "precio": "1625",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "2",
+          "nombre": "Arveja verde en vaina",
+          "precio": "6025",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2448",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "4",
+          "nombre": "Cebolla junca",
+          "precio": "3488",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "1542",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "3475",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "2738",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "2250",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "3425",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "10",
+          "nombre": "Tomate*",
+          "precio": "4375",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "PEREIRA",
+      "lat": 4.8087,
+      "lng": -75.6906,
+      "productos": [
+        {
+          "codigo": "1",
+          "nombre": "Ahuyama",
+          "precio": "2133",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "2",
+          "nombre": "Arveja verde en vaina",
+          "precio": "6693",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2367",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "4",
+          "nombre": "Cebolla junca",
+          "precio": "3156",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "3600",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "2000",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "2700",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "4433",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "10",
+          "nombre": "Tomate*",
+          "precio": "4600",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "5333",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "2200",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "14",
+          "nombre": "Coco",
+          "precio": "5767",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "15",
+          "nombre": "Granadilla",
+          "precio": "8000",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "16",
+          "nombre": "Guayaba*",
+          "precio": "2133",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "17",
+          "nombre": "Limón Común",
+          "precio": "2600",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "18",
+          "nombre": "Limón Tahití",
+          "precio": "1350",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "3933",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "2667",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "7733",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "22",
+          "nombre": "Maracuyá",
+          "precio": "3250",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "4500",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "24",
+          "nombre": "Naranja*",
+          "precio": "1333",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "25",
+          "nombre": "Papaya maradol",
+          "precio": "3000",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "26",
+          "nombre": "Piña *",
+          "precio": "2733",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "4325",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "28",
+          "nombre": "Arracacha*",
+          "precio": "2208",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "29",
+          "nombre": "Papa negra*",
+          "precio": "693",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "2760",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "1833",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "33",
+          "nombre": "Yuca*",
+          "precio": "2040",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "BOGOTÁ",
+      "lat": 4.711,
+      "lng": -74.0721,
+      "productos": [
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "4150",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "1",
+          "nombre": "Ahuyama",
+          "precio": "2913",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "2",
+          "nombre": "Arveja verde en vaina",
+          "precio": "7150",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2300",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "4",
+          "nombre": "Cebolla junca",
+          "precio": "4688",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "1038",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "6042",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "3363",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "3600",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "3292",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "10",
+          "nombre": "Tomate*",
+          "precio": "4830",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "3521",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "7625",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "2625",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "14",
+          "nombre": "Coco",
+          "precio": "7431",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "15",
+          "nombre": "Granadilla",
+          "precio": "6389",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "16",
+          "nombre": "Guayaba*",
+          "precio": "3065",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "17",
+          "nombre": "Limón Común",
+          "precio": "2060",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "18",
+          "nombre": "Limón Tahití",
+          "precio": "1613",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "2216",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "7188",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "22",
+          "nombre": "Maracuyá",
+          "precio": "4788",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "4750",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "24",
+          "nombre": "Naranja*",
+          "precio": "1575",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "26",
+          "nombre": "Piña *",
+          "precio": "1569",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "4525",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "28",
+          "nombre": "Arracacha*",
+          "precio": "542",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "29",
+          "nombre": "Papa negra*",
+          "precio": "1038",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "3361",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "31",
+          "nombre": "Plátano guineo",
+          "precio": "3213",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "3104",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "33",
+          "nombre": "Yuca*",
+          "precio": "3125",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "BARRANQUILLA",
+      "lat": 10.9685,
+      "lng": -74.7813,
+      "productos": [
+        {
+          "codigo": "1",
+          "nombre": "Ahuyama",
+          "precio": "1810",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "2",
+          "nombre": "Arveja verde en vaina",
+          "precio": "9933",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2796",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "3673",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "2574",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "2892",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "4183",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "10",
+          "nombre": "Tomate*",
+          "precio": "4579",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "1800",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "14",
+          "nombre": "Coco",
+          "precio": "6733",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "16",
+          "nombre": "Guayaba*",
+          "precio": "4771",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "18",
+          "nombre": "Limón Tahití",
+          "precio": "1236",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "6000",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "2847",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "3187",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "5541",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "24",
+          "nombre": "Naranja*",
+          "precio": "1560",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "26",
+          "nombre": "Piña *",
+          "precio": "2560",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "4429",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "29",
+          "nombre": "Papa negra*",
+          "precio": "884",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "2100",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "33",
+          "nombre": "Yuca*",
+          "precio": "1901",
+          "fechaCaptura": "2025-07-23 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "17",
+          "nombre": "Limón Común",
+          "precio": "5387",
+          "fechaCaptura": "2025-06-25 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "TUNJA",
+      "lat": 5.5353,
+      "lng": -73.3678,
+      "productos": [
+        {
+          "codigo": "16",
+          "nombre": "Guayaba*",
+          "precio": "2866",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "18",
+          "nombre": "Limón Tahití",
+          "precio": "886",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "4200",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "2045",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "4554",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "22",
+          "nombre": "Maracuyá",
+          "precio": "4267",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "5500",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "24",
+          "nombre": "Naranja*",
+          "precio": "1233",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "3933",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "28",
+          "nombre": "Arracacha*",
+          "precio": "1583",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "1900",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "2650",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "1",
+          "nombre": "Ahuyama",
+          "precio": "1328",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "2",
+          "nombre": "Arveja verde en vaina",
+          "precio": "6267",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2125",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "4",
+          "nombre": "Cebolla junca",
+          "precio": "3167",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "1650",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "5350",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "1533",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "2018",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "4867",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "3600",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "7167",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "2350",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "15",
+          "nombre": "Granadilla",
+          "precio": "6833",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "IBAGUÉ",
+      "lat": 4.4389,
+      "lng": -75.2322,
+      "productos": [
+        {
+          "codigo": "10",
+          "nombre": "Tomate*",
+          "precio": "4950",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "3253",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "5625",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "2500",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "15",
+          "nombre": "Granadilla",
+          "precio": "5000",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "17",
+          "nombre": "Limón Común",
+          "precio": "2333",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "18",
+          "nombre": "Limón Tahití",
+          "precio": "1333",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "4310",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "1600",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "22",
+          "nombre": "Maracuyá",
+          "precio": "3680",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "4600",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "26",
+          "nombre": "Piña *",
+          "precio": "2933",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "4400",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "28",
+          "nombre": "Arracacha*",
+          "precio": "580",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "2387",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "1",
+          "nombre": "Ahuyama",
+          "precio": "2367",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "2",
+          "nombre": "Arveja verde en vaina",
+          "precio": "6235",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2467",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "1400",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "4267",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "2213",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "2667",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "4000",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "2067",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "3600",
+          "fechaCaptura": "2025-06-19 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "16",
+          "nombre": "Guayaba*",
+          "precio": "1833",
+          "fechaCaptura": "2025-06-05 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "SAN JOSÉ DE CÚCUTA",
+      "lat": 7.8939,
+      "lng": -72.5078,
+      "productos": [
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "5792",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "2683",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "3600",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "22",
+          "nombre": "Maracuyá",
+          "precio": "4708",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "4403",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "24",
+          "nombre": "Naranja*",
+          "precio": "1236",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "25",
+          "nombre": "Papaya maradol",
+          "precio": "3117",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "4400",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "28",
+          "nombre": "Arracacha*",
+          "precio": "1667",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "2117",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "3100",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "33",
+          "nombre": "Yuca*",
+          "precio": "2233",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "1",
+          "nombre": "Ahuyama",
+          "precio": "1883",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "2",
+          "nombre": "Arveja verde en vaina",
+          "precio": "8417",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2358",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "4",
+          "nombre": "Cebolla junca",
+          "precio": "2500",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "1561",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "3708",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "1667",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "3507",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "3500",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "10",
+          "nombre": "Tomate*",
+          "precio": "5000",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "3358",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "6333",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "3542",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "15",
+          "nombre": "Granadilla",
+          "precio": "9048",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "16",
+          "nombre": "Guayaba*",
+          "precio": "3636",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "17",
+          "nombre": "Limón Común",
+          "precio": "2792",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "18",
+          "nombre": "Limón Tahití",
+          "precio": "1136",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "NEIVA",
+      "lat": 2.9273,
+      "lng": -75.2819,
+      "productos": [
+        {
+          "codigo": "2",
+          "nombre": "Arveja verde en vaina",
+          "precio": "6667",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "4",
+          "nombre": "Cebolla junca",
+          "precio": "3889",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "1291",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "6080",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "2533",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "2500",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "4213",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "10",
+          "nombre": "Tomate*",
+          "precio": "4565",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "3707",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "7667",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "2667",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "15",
+          "nombre": "Granadilla",
+          "precio": "5778",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "16",
+          "nombre": "Guayaba*",
+          "precio": "3333",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "17",
+          "nombre": "Limón Común",
+          "precio": "1893",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "18",
+          "nombre": "Limón Tahití",
+          "precio": "1227",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "3533",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "5200",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "2000",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "4267",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "28",
+          "nombre": "Arracacha*",
+          "precio": "1360",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "2533",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "31",
+          "nombre": "Plátano guineo",
+          "precio": "2750",
+          "fechaCaptura": "2025-07-17 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "SANTA MARTA",
+      "lat": 11.2408,
+      "lng": -74.212,
+      "productos": [
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2620",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "2917",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "4150",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "3042",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "1441",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "22",
+          "nombre": "Maracuyá",
+          "precio": "5233",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "4360",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "5000",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "1825",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "5550",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "1700",
+          "fechaCaptura": "2025-07-17 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "4675",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "2292",
+          "fechaCaptura": "2025-06-24 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "ARMENIA",
+      "lat": 4.5339,
+      "lng": -75.6811,
+      "productos": [
+        {
+          "codigo": "29",
+          "nombre": "Papa negra*",
+          "precio": "930",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "1944",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "1533",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "33",
+          "nombre": "Yuca*",
+          "precio": "2000",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "1",
+          "nombre": "Ahuyama",
+          "precio": "1767",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "2",
+          "nombre": "Arveja verde en vaina",
+          "precio": "6133",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2500",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "4",
+          "nombre": "Cebolla junca",
+          "precio": "2143",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "857",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "4800",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "1533",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "3000",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "2000",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "10",
+          "nombre": "Tomate*",
+          "precio": "4500",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "2556",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "5833",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "1767",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "14",
+          "nombre": "Coco",
+          "precio": "5333",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "16",
+          "nombre": "Guayaba*",
+          "precio": "2067",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "17",
+          "nombre": "Limón Común",
+          "precio": "4000",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "18",
+          "nombre": "Limón Tahití",
+          "precio": "1533",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "4300",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "3467",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "4167",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "22",
+          "nombre": "Maracuyá",
+          "precio": "4000",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "4467",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "25",
+          "nombre": "Papaya maradol",
+          "precio": "2167",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "26",
+          "nombre": "Piña *",
+          "precio": "2433",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "4667",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "28",
+          "nombre": "Arracacha*",
+          "precio": "2500",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "15",
+          "nombre": "Granadilla",
+          "precio": "6667",
+          "fechaCaptura": "2025-07-01 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "BUCARAMANGA",
+      "lat": 7.1193,
+      "lng": -73.1227,
+      "productos": [
+        {
+          "codigo": "1",
+          "nombre": "Ahuyama",
+          "precio": "1500",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "2",
+          "nombre": "Arveja verde en vaina",
+          "precio": "6000",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2400",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "4",
+          "nombre": "Cebolla junca",
+          "precio": "2656",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "1280",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "3000",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "1487",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "3167",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "3778",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "10",
+          "nombre": "Tomate*",
+          "precio": "3561",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "2833",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "7333",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "3202",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "15",
+          "nombre": "Granadilla",
+          "precio": "7619",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "16",
+          "nombre": "Guayaba*",
+          "precio": "2800",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "17",
+          "nombre": "Limón Común",
+          "precio": "1460",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "18",
+          "nombre": "Limón Tahití",
+          "precio": "760",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "4533",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "2246",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "5200",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "22",
+          "nombre": "Maracuyá",
+          "precio": "4167",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "4133",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "24",
+          "nombre": "Naranja*",
+          "precio": "1000",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "26",
+          "nombre": "Piña *",
+          "precio": "1611",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "4400",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "28",
+          "nombre": "Arracacha*",
+          "precio": "1200",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "29",
+          "nombre": "Papa negra*",
+          "precio": "1000",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "2533",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "3307",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "33",
+          "nombre": "Yuca*",
+          "precio": "2381",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "CALI",
+      "lat": 3.4516,
+      "lng": -76.532,
+      "productos": [
+        {
+          "codigo": "1",
+          "nombre": "Ahuyama",
+          "precio": "1950",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "25",
+          "nombre": "Papaya maradol",
+          "precio": "2775",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "26",
+          "nombre": "Piña *",
+          "precio": "2050",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "4200",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "29",
+          "nombre": "Papa negra*",
+          "precio": "825",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "2025",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "2",
+          "nombre": "Arveja verde en vaina",
+          "precio": "7600",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2188",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "4",
+          "nombre": "Cebolla junca",
+          "precio": "3407",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "1571",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "2600",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "1500",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "3000",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "7125",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "2000",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "14",
+          "nombre": "Coco",
+          "precio": "4796",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "15",
+          "nombre": "Granadilla",
+          "precio": "7333",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "16",
+          "nombre": "Guayaba*",
+          "precio": "2575",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "17",
+          "nombre": "Limón Común",
+          "precio": "2667",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "18",
+          "nombre": "Limón Tahití",
+          "precio": "1375",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "3325",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "2167",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "7450",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "22",
+          "nombre": "Maracuyá",
+          "precio": "3550",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "3600",
+          "fechaCaptura": "2025-07-22 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "4333",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "10",
+          "nombre": "Tomate*",
+          "precio": "4642",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "2683",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "2475",
+          "fechaCaptura": "2025-07-15 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "VILLAVICENCIO",
+      "lat": 4.142,
+      "lng": -73.6266,
+      "productos": [
+        {
+          "codigo": "28",
+          "nombre": "Arracacha*",
+          "precio": "1600",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "29",
+          "nombre": "Papa negra*",
+          "precio": "1100",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "2000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "31",
+          "nombre": "Plátano guineo",
+          "precio": "3333",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "3080",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "33",
+          "nombre": "Yuca*",
+          "precio": "2750",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "2",
+          "nombre": "Arveja verde en vaina",
+          "precio": "7400",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2725",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "4",
+          "nombre": "Cebolla junca",
+          "precio": "4375",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "1775",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "6042",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "2200",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "3125",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "2708",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "3208",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "8625",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "1590",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "15",
+          "nombre": "Granadilla",
+          "precio": "7000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "16",
+          "nombre": "Guayaba*",
+          "precio": "2500",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "17",
+          "nombre": "Limón Común",
+          "precio": "1400",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "18",
+          "nombre": "Limón Tahití",
+          "precio": "1100",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "4650",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "2500",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "6650",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "22",
+          "nombre": "Maracuyá",
+          "precio": "4000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "5000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "24",
+          "nombre": "Naranja*",
+          "precio": "1180",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "4950",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "SINCELEJO",
+      "lat": 9.3047,
+      "lng": -75.3978,
+      "productos": [
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "4825",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "24",
+          "nombre": "Naranja*",
+          "precio": "1531",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "4050",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "29",
+          "nombre": "Papa negra*",
+          "precio": "1360",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "4125",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "1913",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "33",
+          "nombre": "Yuca*",
+          "precio": "1500",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "1",
+          "nombre": "Ahuyama",
+          "precio": "1700",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2450",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "4",
+          "nombre": "Cebolla junca",
+          "precio": "1150",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "1000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "4250",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "2550",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "2000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "4400",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "10",
+          "nombre": "Tomate*",
+          "precio": "4050",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "2750",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "6500",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "2400",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "14",
+          "nombre": "Coco",
+          "precio": "7150",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "17",
+          "nombre": "Limón Común",
+          "precio": "1786",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "4700",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "2800",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "VALLEDUPAR",
+      "lat": 10.4631,
+      "lng": -73.2532,
+      "productos": [
+        {
+          "codigo": "1",
+          "nombre": "Ahuyama",
+          "precio": "1700",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2667",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "1450",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "3750",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "2375",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "3212",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "3375",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "10",
+          "nombre": "Tomate*",
+          "precio": "4283",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "2889",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "7433",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "1333",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "17",
+          "nombre": "Limón Común",
+          "precio": "2093",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "5600",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "2700",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "5000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "24",
+          "nombre": "Naranja*",
+          "precio": "1734",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "26",
+          "nombre": "Piña *",
+          "precio": "2800",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "29",
+          "nombre": "Papa negra*",
+          "precio": "800",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "3200",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "2000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "33",
+          "nombre": "Yuca*",
+          "precio": "1792",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "4733",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "28",
+          "nombre": "Arracacha*",
+          "precio": "3500",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "PASTO",
+      "lat": 1.2136,
+      "lng": -77.2811,
+      "productos": [
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "2969",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "25",
+          "nombre": "Papaya maradol",
+          "precio": "2792",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "3800",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "28",
+          "nombre": "Arracacha*",
+          "precio": "1400",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "1050",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "2",
+          "nombre": "Arveja verde en vaina",
+          "precio": "5650",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "1615",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "4",
+          "nombre": "Cebolla junca",
+          "precio": "3167",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "1277",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "6000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "2225",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "3571",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "10",
+          "nombre": "Tomate*",
+          "precio": "3838",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "2400",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "16",
+          "nombre": "Guayaba*",
+          "precio": "1938",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "18",
+          "nombre": "Limón Tahití",
+          "precio": "1089",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "2609",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "22",
+          "nombre": "Maracuyá",
+          "precio": "3000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "4000",
+          "fechaCaptura": "2025-06-12 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "CARTAGENA DE INDIAS",
+      "lat": 10.391,
+      "lng": -75.4794,
+      "productos": [
+        {
+          "codigo": "33",
+          "nombre": "Yuca*",
+          "precio": "1656",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "1",
+          "nombre": "Ahuyama",
+          "precio": "2300",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2825",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "1188",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "4667",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "2333",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "3375",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "4361",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "3222",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "7875",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "14",
+          "nombre": "Coco",
+          "precio": "7000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "16",
+          "nombre": "Guayaba*",
+          "precio": "3375",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "18",
+          "nombre": "Limón Tahití",
+          "precio": "1761",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "5200",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "3580",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "4520",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "26",
+          "nombre": "Piña *",
+          "precio": "2380",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "4833",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "29",
+          "nombre": "Papa negra*",
+          "precio": "800",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "3350",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "2550",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "24",
+          "nombre": "Naranja*",
+          "precio": "1267",
+          "fechaCaptura": "2025-07-09 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "2400",
+          "fechaCaptura": "2025-06-30 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "MANIZALES",
+      "lat": 5.0703,
+      "lng": -75.5138,
+      "productos": [
+        {
+          "codigo": "1",
+          "nombre": "Ahuyama",
+          "precio": "2867",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "2",
+          "nombre": "Arveja verde en vaina",
+          "precio": "7150",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2467",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "4",
+          "nombre": "Cebolla junca",
+          "precio": "4600",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "1000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "3800",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "1400",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "3500",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "5000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "10",
+          "nombre": "Tomate*",
+          "precio": "4061",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "5500",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "1800",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "14",
+          "nombre": "Coco",
+          "precio": "7742",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "15",
+          "nombre": "Granadilla",
+          "precio": "6889",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "16",
+          "nombre": "Guayaba*",
+          "precio": "3000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "18",
+          "nombre": "Limón Tahití",
+          "precio": "1000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "4000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "3200",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "6400",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "22",
+          "nombre": "Maracuyá",
+          "precio": "3433",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "5500",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "24",
+          "nombre": "Naranja*",
+          "precio": "1000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "25",
+          "nombre": "Papaya maradol",
+          "precio": "3400",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "26",
+          "nombre": "Piña *",
+          "precio": "2933",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "4000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "29",
+          "nombre": "Papa negra*",
+          "precio": "1010",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "2917",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "33",
+          "nombre": "Yuca*",
+          "precio": "2700",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "MONTERÍA",
+      "lat": 8.7479,
+      "lng": -75.8814,
+      "productos": [
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "950",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "5250",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "1675",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "2200",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "9",
+          "nombre": "Remolacha",
+          "precio": "3625",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "10",
+          "nombre": "Tomate*",
+          "precio": "4375",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "2778",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "6625",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "2025",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "14",
+          "nombre": "Coco",
+          "precio": "8100",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "17",
+          "nombre": "Limón Común",
+          "precio": "1250",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "5333",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "1",
+          "nombre": "Ahuyama",
+          "precio": "1925",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2550",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "4",
+          "nombre": "Cebolla junca",
+          "precio": "1198",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "4000",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "24",
+          "nombre": "Naranja*",
+          "precio": "1706",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "4400",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "29",
+          "nombre": "Papa negra*",
+          "precio": "1375",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "3875",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "1750",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "33",
+          "nombre": "Yuca*",
+          "precio": "1531",
+          "fechaCaptura": "2025-07-21 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "2920",
+          "fechaCaptura": "2025-07-14 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "1160",
+          "fechaCaptura": "2025-05-21 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    },
+    {
+      "ciudad": "POPAYÁN",
+      "lat": 2.4448,
+      "lng": -76.6147,
+      "productos": [
+        {
+          "codigo": "1",
+          "nombre": "Ahuyama",
+          "precio": "1410",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "2",
+          "nombre": "Arveja verde en vaina",
+          "precio": "6250",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "3",
+          "nombre": "Cebolla cabezona blanca",
+          "precio": "2135",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "4",
+          "nombre": "Cebolla junca",
+          "precio": "3767",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "5",
+          "nombre": "Chócolo mazorca",
+          "precio": "918",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "6",
+          "nombre": "Habichuela",
+          "precio": "4050",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "7",
+          "nombre": "Pepino cohombro",
+          "precio": "1192",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "8",
+          "nombre": "Pimentón",
+          "precio": "3000",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "10",
+          "nombre": "Tomate*",
+          "precio": "4000",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "11",
+          "nombre": "Zanahoria",
+          "precio": "2188",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "12",
+          "nombre": "Aguacate*",
+          "precio": "7900",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "13",
+          "nombre": "Banano*",
+          "precio": "1600",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "15",
+          "nombre": "Granadilla",
+          "precio": "6600",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "16",
+          "nombre": "Guayaba*",
+          "precio": "3025",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "19",
+          "nombre": "Lulo",
+          "precio": "3460",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "20",
+          "nombre": "Mandarina*",
+          "precio": "2040",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "21",
+          "nombre": "Mango tommy",
+          "precio": "5100",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "22",
+          "nombre": "Maracuyá",
+          "precio": "4000",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "23",
+          "nombre": "Mora de Castilla",
+          "precio": "3960",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "25",
+          "nombre": "Papaya maradol",
+          "precio": "2575",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "26",
+          "nombre": "Piña *",
+          "precio": "1950",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "27",
+          "nombre": "Tomate de árbol",
+          "precio": "2344",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "29",
+          "nombre": "Papa negra*",
+          "precio": "1000",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "30",
+          "nombre": "Papa criolla",
+          "precio": "1025",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        },
+        {
+          "codigo": "32",
+          "nombre": "Plátano hartón verde",
+          "precio": "2690",
+          "fechaCaptura": "2025-07-16 00:00:00-05:00",
+          "unidad": "kg"
+        }
+      ]
+    }
+  ],
+  "productos": [
+    {
+      "id": "11",
+      "name": "Zanahoria",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "12",
+      "name": "Aguacate*",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "13",
+      "name": "Banano*",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "14",
+      "name": "Coco",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "15",
+      "name": "Granadilla",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "16",
+      "name": "Guayaba*",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "17",
+      "name": "Limón Común",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "18",
+      "name": "Limón Tahití",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "19",
+      "name": "Lulo",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "20",
+      "name": "Mandarina*",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "21",
+      "name": "Mango tommy",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "22",
+      "name": "Maracuyá",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "23",
+      "name": "Mora de Castilla",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "24",
+      "name": "Naranja*",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "25",
+      "name": "Papaya maradol",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "26",
+      "name": "Piña *",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "27",
+      "name": "Tomate de árbol",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "28",
+      "name": "Arracacha*",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "29",
+      "name": "Papa negra*",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "30",
+      "name": "Papa criolla",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "31",
+      "name": "Plátano guineo",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "32",
+      "name": "Plátano hartón verde",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "33",
+      "name": "Yuca*",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "1",
+      "name": "Ahuyama",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "2",
+      "name": "Arveja verde en vaina",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "3",
+      "name": "Cebolla cabezona blanca",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "4",
+      "name": "Cebolla junca",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "5",
+      "name": "Chócolo mazorca",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "6",
+      "name": "Habichuela",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "7",
+      "name": "Pepino cohombro",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "8",
+      "name": "Pimentón",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "9",
+      "name": "Remolacha",
+      "category": "Mayorista",
+      "unit": "kg"
+    },
+    {
+      "id": "10",
+      "name": "Tomate*",
+      "category": "Mayorista",
+      "unit": "kg"
+    }
+  ],
+  "metadatos": {
+    "fechaGeneracion": "2025-07-24T02:24:11.143149",
+    "fechaLimite": "2025-04-25T02:24:09.272386",
+    "estrategia": "Fecha más reciente por ciudad/producto en ventana de 3 meses",
+    "ventanaDias": 90,
+    "totalCiudades": 20,
+    "totalProductos": 33,
+    "registrosUnicos": 516,
+    "registrosEnVentana": 17301,
+    "registrosFueraVentana": 285514,
+    "fuente": "DANE SIPSA"
+  }
+}

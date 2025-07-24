@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <!-- Fondo degradado -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="1200" height="630" fill="url(#gradient)"/>
+  
+  <!-- Título principal -->
+  <text x="600" y="180" text-anchor="middle" fill="#FFFFFF" font-size="48" font-weight="bold" font-family="Arial, sans-serif">
+    Colombia Price Map
+  </text>
+  
+  <!-- Subtítulo -->
+  <text x="600" y="230" text-anchor="middle" fill="#D1FAE5" font-size="24" font-family="Arial, sans-serif">
+    Precios Mayoristas DANE SIPSA en Tiempo Real
+  </text>
+  
+  <!-- Características -->
+  <text x="600" y="290" text-anchor="middle" fill="#A7F3D0" font-size="18" font-family="Arial, sans-serif">
+    33 Productos Agrícolas • 20 Ciudades • Datos Oficiales DANE
+  </text>
+  
+  <!-- Mapa simplificado de Colombia -->
+  <g transform="translate(300, 320)">
+    <path d="M0 0 C40 -20, 160 -20, 200 20 C220 40, 220 60, 200 80 C180 100, 180 120, 200 140 C220 160, 200 180, 180 200 C140 220, 100 200, 80 180 C60 160, 40 140, 40 120 C20 100, 20 80, 40 60 C40 40, 40 20, 0 0 Z" 
+          fill="#FBBF24" opacity="0.9"/>
+    
+    <!-- Puntos de ciudades -->
+    <circle cx="50" cy="80" r="6" fill="#EF4444"/>
+    <circle cx="100" cy="60" r="6" fill="#EF4444"/>
+    <circle cx="150" cy="90" r="6" fill="#EF4444"/>
+    <circle cx="120" cy="120" r="6" fill="#EF4444"/>
+    <circle cx="80" cy="140" r="6" fill="#EF4444"/>
+  </g>
+  
+  <!-- Iconos de productos -->
+  <g transform="translate(650, 350)">
+    <!-- Frutas -->
+    <circle cx="20" cy="20" r="15" fill="#F59E0B"/>
+    <text x="20" y="25" text-anchor="middle" fill="#FFFFFF" font-size="12">🍎</text>
+    
+    <!-- Verduras -->
+    <circle cx="60" cy="20" r="15" fill="#10B981"/>
+    <text x="60" y="25" text-anchor="middle" fill="#FFFFFF" font-size="12">🥕</text>
+    
+    <!-- Tubérculos -->
+    <circle cx="100" cy="20" r="15" fill="#92400E"/>
+    <text x="100" y="25" text-anchor="middle" fill="#FFFFFF" font-size="12">🥔</text>
+    
+    <!-- Cereales -->
+    <circle cx="140" cy="20" r="15" fill="#D97706"/>
+    <text x="140" y="25" text-anchor="middle" fill="#FFFFFF" font-size="12">🌽</text>
+  </g>
+  
+  <!-- Información adicional -->
+  <text x="600" y="520" text-anchor="middle" fill="#A7F3D0" font-size="16" font-family="Arial, sans-serif">
+    Herramienta desarrollada por EA Tech Company
+  </text>
+  
+  <!-- Logo/Marca -->
+  <rect x="50" y="550" width="100" height="40" fill="#FFFFFF" opacity="0.1" rx="5"/>
+  <text x="100" y="575" text-anchor="middle" fill="#FFFFFF" font-size="14" font-weight="bold">
+    EA Tech
+  </text>
+</svg>
